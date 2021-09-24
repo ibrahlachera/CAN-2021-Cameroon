@@ -9,7 +9,7 @@
         "latitude": 51.5552193,
         "longitude": -0.2772329
       },
-      "image": "https://www.yenigun.com.tr/wp-content/uploads/2019/02/yenigunstad8.jpg"
+      "image": "https://www.yeNGRun.com.tr/wp-content/uploads/2019/02/yenigunstad8.jpg"
     },
     {
       "id": "OLE",
@@ -75,7 +75,7 @@
         "latitude": 55.702469,
         "longitude": 12.572203
       },
-      "image": "https://www.camfoot.com/IMG/jpg/dsc_0444.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/LIMBE_STADIUM_BY_MTTFA.jpg/800px-LIMBE_STADIUM_BY_MTTFA.jpg"
     }
   ],
   "tvchannels": [
@@ -641,7 +641,7 @@
           "id": 7,
           "name": "7",
           "matchtype": "group",
-          "home_team": "NIG",
+          "home_team": "NGR",
           "away_team": "EGY",
           "home_result": null,
           "away_result": null,
@@ -669,7 +669,7 @@
           "id": 19,
           "name": "19",
           "matchtype": "group",
-          "home_team": "NIG",
+          "home_team": "NGR",
           "away_team": "SDN",
           "home_result": null,
           "away_result": null,
