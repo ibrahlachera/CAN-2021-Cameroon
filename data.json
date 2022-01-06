@@ -1324,7 +1324,7 @@
       ]
     },
     "round_2_loser": {
-      "id": "3place",
+      "id": "round_2_loser",
       "name": "3rd Place",
       "matches": [
         {
