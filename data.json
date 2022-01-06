@@ -363,7 +363,7 @@
           "away_team": "BFA",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-09T18:00:00+01:00",
+          "date": "2022-01-09T17:00:00+01:00",
           "stadium": "OLE",
           "tvchannels": [],
           "finished": false,
@@ -377,7 +377,7 @@
           "away_team": "CAP",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-09T21:00:00+01:00",
+          "date": "2022-01-09T20:00:00+01:00",
           "stadium": "OLE",
           "tvchannels": [],
           "finished": false,
@@ -391,7 +391,7 @@
           "away_team": "ETH",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-13T18:00:00+02:00",
+          "date": "2022-01-13T17:00:00+01:00",
           "stadium": "OLE",
           "tvchannels": [],
           "finished": false,
@@ -405,7 +405,7 @@
           "away_team": "BFA",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-13T21:00:00+02:00",
+          "date": "2022-01-13T20:00:00+01:00",
           "stadium": "OLE",
           "tvchannels": [],
           "finished": false,
@@ -419,7 +419,7 @@
           "away_team": "ETH",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-17T18:00:00+02:00",
+          "date": "2022-01-17T17:00:00+01:00",
           "stadium": "BAF",
           "tvchannels": [],
           "finished": false,
@@ -433,7 +433,7 @@
           "away_team": "CAM",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-17T18:00:00+02:00",
+          "date": "2022-01-17T17:00:00+01:00",
           "stadium": "OLE",
           "tvchannels": [],
           "finished": false,
@@ -457,7 +457,7 @@
           "away_team": "ZIM",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-10T15:00:00+02:00",
+          "date": "2022-01-10T14:00:00+01:00",
           "stadium": "BAF",
           "tvchannels": [],
           "finished": false,
@@ -471,7 +471,7 @@
           "away_team": "MAL",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-10T18:00:00+02:00",
+          "date": "2022-01-10T17:00:00+01:00",
           "stadium": "BAF",
           "tvchannels": [],
           "finished": false,
@@ -485,7 +485,7 @@
           "away_team": "GUI",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-14T15:00:00+02:00",
+          "date": "2022-01-14T14:00:00+01:00",
           "stadium": "BAF",
           "tvchannels": [],
           "finished": false,
@@ -499,7 +499,7 @@
           "away_team": "ZIM",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-14T18:00:00+02:00",
+          "date": "2022-01-14T17:00:00+01:00",
           "stadium": "BAF",
           "tvchannels": [],
           "finished": false,
@@ -513,7 +513,7 @@
           "away_team": "SEN",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-18T18:00:00+02:00",
+          "date": "2022-01-17T18:00:00+01:00",
           "stadium": "BAF",
           "tvchannels": [],
           "finished": false,
@@ -527,7 +527,7 @@
           "away_team": "GUI",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-18T18:00:00+02:00",
+          "date": "2022-01-18T17:00:00+01:00",
           "stadium": "AHM",
           "tvchannels": [],
           "finished": false,
@@ -551,7 +551,7 @@
           "away_team": "GHA",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-10T18:00:00+02:00",
+          "date": "2022-01-10T17:00:00+01:00",
           "stadium": "AHM",
           "tvchannels": [],
           "finished": false,
@@ -565,7 +565,7 @@
           "away_team": "GAB",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-10T21:00:00+02:00",
+          "date": "2022-01-10T20:00:00+01:00",
           "stadium": "AHM",
           "tvchannels": [],
           "finished": false,
@@ -579,7 +579,7 @@
           "away_team": "COM",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-14T18:00:00+02:00",
+          "date": "2022-01-14T17:00:00+01:00",
           "stadium": "AHM",
           "tvchannels": [],
           "finished": false,
@@ -593,7 +593,7 @@
           "away_team": "GHA",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-14T21:00:00+02:00",
+          "date": "2022-01-14T20:00:00+01:00",
           "stadium": "AHM",
           "tvchannels": [],
           "finished": false,
@@ -607,7 +607,7 @@
           "away_team": "MOR",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-18T21:00:00+02:00",
+          "date": "2022-01-18T20:00:00+01:00",
           "stadium": "AHM",
           "tvchannels": [],
           "finished": false,
@@ -621,7 +621,7 @@
           "away_team": "COM",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-18T21:00:00+02:00",
+          "date": "2022-01-18T20:00:00+01:00",
           "stadium": "RAD",
           "tvchannels": [],
           "finished": false,
@@ -645,7 +645,7 @@
           "away_team": "EGY",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-11T18:00:00+02:00",
+          "date": "2022-01-11T17:00:00+01:00",
           "stadium": "RAD",
           "tvchannels": [],
           "finished": false,
@@ -659,7 +659,7 @@
           "away_team": "GNB",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-11T21:00:00+02:00",
+          "date": "2022-01-11T20:00:00+01:00",
           "stadium": "RAD",
           "tvchannels": [],
           "finished": false,
@@ -673,7 +673,7 @@
           "away_team": "SDN",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-15T18:00:00+02:00",
+          "date": "2022-01-15T17:00:00+01:00",
           "stadium": "RAD",
           "tvchannels": [],
           "finished": false,
@@ -687,7 +687,7 @@
           "away_team": "EGY",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-15T21:00:00+02:00",
+          "date": "2022-01-15T20:00:00+01:00",
           "stadium": "RAD",
           "tvchannels": [],
           "finished": false,
@@ -701,7 +701,7 @@
           "away_team": "NIG",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-19T21:00:00+02:00",
+          "date": "2022-01-19T20:00:00+01:00",
           "stadium": "RAD",
           "tvchannels": [],
           "finished": false,
@@ -715,7 +715,7 @@
           "away_team": "SDN",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-19T21:00:00+02:00",
+          "date": "2022-01-19T20:00:00+01:00",
           "stadium": "AHM",
           "tvchannels": [],
           "finished": false,
@@ -739,7 +739,7 @@
           "away_team": "SRL",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-11T15:00:00+02:00",
+          "date": "2022-01-11T14:00:00+01:00",
           "stadium": "JAP",
           "tvchannels": [],
           "finished": false,
@@ -753,7 +753,7 @@
           "away_team": "IVR",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-12T21:00:00+02:00",
+          "date": "2022-01-12T20:00:00+01:00",
           "stadium": "JAP",
           "tvchannels": [],
           "finished": false,
@@ -767,7 +767,7 @@
           "away_team": "SRL",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-16T18:00:00+02:00",
+          "date": "2022-01-16T17:00:00+01:00",
           "stadium": "JAP",
           "tvchannels": [],
           "finished": false,
@@ -781,7 +781,7 @@
           "away_team": "GEQ",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-16T21:00:00+02:00",
+          "date": "2022-01-16T20:00:00+01:00",
           "stadium": "JAP",
           "tvchannels": [],
           "finished": false,
@@ -795,7 +795,7 @@
           "away_team": "GEQ",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-20T18:00:00+02:00",
+          "date": "2022-01-20T17:00:00+01:00",
           "stadium": "LIM",
           "tvchannels": [],
           "finished": false,
@@ -809,7 +809,7 @@
           "away_team": "ALG",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-20T18:00:00+02:00",
+          "date": "2022-01-20T17:00:00+01:00",
           "stadium": "JAP",
           "tvchannels": [],
           "finished": false,
@@ -833,7 +833,7 @@
           "away_team": "MLI",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-12T15:00:00+02:00",
+          "date": "2022-01-12T14:00:00+01:00",
           "stadium": "LIM",
           "tvchannels": [],
           "finished": false,
@@ -847,7 +847,7 @@
           "away_team": "GAM",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-12T18:00:00+02:00",
+          "date": "2022-01-12T17:00:00+01:00",
           "stadium": "LIM",
           "tvchannels": [],
           "finished": false,
@@ -857,11 +857,11 @@
           "id": 23,
           "name": "23",
           "matchtype": "group",
-          "home_team": "GAL",
+          "home_team": "GAM",
           "away_team": "MLI",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-16T15:00:00+02:00",
+          "date": "2022-01-16T14:00:00+01:00",
           "stadium": "LIM",
           "tvchannels": [],
           "finished": false,
@@ -875,7 +875,7 @@
           "away_team": "MAU",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-16T18:00:00+02:00",
+          "date": "2022-01-16T17:00:00+01:00",
           "stadium": "LIM",
           "tvchannels": [],
           "finished": false,
@@ -889,7 +889,7 @@
           "away_team": "TUN",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-20T21:00:00+02:00",
+          "date": "2022-01-20T20:00:00+01:00",
           "stadium": "LIM",
           "tvchannels": [],
           "finished": false,
@@ -903,7 +903,7 @@
           "away_team": "MAU",
           "home_result": null,
           "away_result": null,
-          "date": "2022-01-20T21:00:00+02:00",
+          "date": "2022-01-20T20:00:00+01:00",
           "stadium": "JAP",
           "tvchannels": [],
           "finished": false,
@@ -924,7 +924,7 @@
           "teams_found": true,
           "qualification": {
             "home_team": {
-              "qualificationtype": "winner",
+              "qualificationtype": "runnerup",
               "group": "a"
             },
             "away_team": {
@@ -932,15 +932,15 @@
               "group": "c"
             }
           },
-          "home_team": "ITA",
-          "away_team": "AUT",
-          "home_result": 2,
-          "away_result": 1,
+          "home_team": "",
+          "away_team": "",
+          "home_result": null,
+          "away_result": null,
           "home_penalty": null,
           "away_penalty": null,
-          "winner": "ITA",
-          "date": "2022-01-26T21:00:00+02:00",
-          "stadium": "WEM",
+          "winner": "",
+          "date": "2022-01-23T17:00:00+01:00",
+          "stadium": "LIM",
           "tvchannels": [],
           "finished": false,
           "matchday": "4"
@@ -952,23 +952,23 @@
           "teams_found": true,
           "qualification": {
             "home_team": {
-              "qualificationtype": "runnerup",
-              "group": "a"
+              "qualificationtype": "winner",
+              "group": "d"
             },
             "away_team": {
-              "qualificationtype": "runnerup",
-              "group": "b"
+              "qualificationtype": "thirdplace",
+              "group": "B/E/F"
             }
           },
-          "home_team": "WAL",
-          "away_team": "DEN",
-          "home_result": 0,
-          "away_result": 4,
+          "home_team": "",
+          "away_team": "",
+          "home_result": null,
+          "away_result": null,
           "home_penalty": null,
           "away_penalty": null,
-          "winner": "DEN",
-          "date": "2022-01-26T18:00:00+02:00",
-          "stadium": "JOH",
+          "winner": "",
+          "date": "2022-01-23T20:00:00+01:00",
+          "stadium": "RAD",
           "tvchannels": [],
           "finished": false,
           "matchday": "4"
@@ -980,23 +980,23 @@
           "teams_found": true,
           "qualification": {
             "home_team": {
-              "qualificationtype": "winner",
+              "qualificationtype": "runnerup",
               "group": "b"
             },
             "away_team": {
-              "qualificationtype": "thirdplace",
-              "group": "A/D/E/F"
+              "qualificationtype": "runnerup",
+              "group": "f"
             }
           },
-          "home_team": "BEL",
-          "away_team": "POR",
-          "home_result": 1,
-          "away_result": 0,
+          "home_team": "",
+          "away_team": "",
+          "home_result": null,
+          "away_result": null,
           "home_penalty": null,
           "away_penalty": null,
-          "winner": "BEL",
-          "date": "2022-01-27T21:00:00+02:00",
-          "stadium": "CAR",
+          "winner": "",
+          "date": "2022-01-24T17:00:00+01:00",
+          "stadium": "BAF",
           "tvchannels": [],
           "finished": false,
           "matchday": "4"
@@ -1009,22 +1009,22 @@
           "qualification": {
             "home_team": {
               "qualificationtype": "winner",
-              "group": "c"
+              "group": "a"
             },
             "away_team": {
               "qualificationtype": "thirdplace",
-              "group": "D/E/F"
+              "group": "C/D/E"
             }
           },
-          "home_team": "NED",
-          "away_team": "CZE",
-          "home_result": 0,
-          "away_result": 2,
+          "home_team": "",
+          "away_team": "",
+          "home_result": null,
+          "away_result": null,
           "home_penalty": null,
           "away_penalty": null,
-          "winner": "CZE",
-          "date": "2022-01-27T18:00:00+02:00",
-          "stadium": "PUS",
+          "winner": "",
+          "date": "2022-01-24T20:00:00+01:00",
+          "stadium": "OLE",
           "tvchannels": [],
           "finished": false,
           "matchday": "4"
@@ -1037,22 +1037,22 @@
           "qualification": {
             "home_team": {
               "qualificationtype": "winner",
-              "group": "f"
+              "group": "b"
             },
             "away_team": {
               "qualificationtype": "thirdplace",
-              "group": "A/B/C"
+              "group": "A/C/D"
             }
           },
-          "home_team": "FRA",
-          "away_team": "SUI",
-          "home_result": 3,
-          "away_result": 3,
-          "home_penalty": 4,
-          "away_penalty": 5,
-          "winner": "SUI",
-          "date": "2022-01-28T21:00:00+02:00",
-          "stadium": "NAT",
+          "home_team": "",
+          "away_team": "",
+          "home_result": null,
+          "away_result": null,
+          "home_penalty": null,
+          "away_penalty": null,
+          "winner": "",
+          "date": "2022-01-25T17:00:00+01:00",
+          "stadium": "BAF",
           "tvchannels": [],
           "finished": false,
           "matchday": "4"
@@ -1064,23 +1064,23 @@
           "teams_found": true,
           "qualification": {
             "home_team": {
-              "qualificationtype": "runnerup",
-              "group": "d"
+              "qualificationtype": "winner",
+              "group": "c"
             },
             "away_team": {
-              "qualificationtype": "runnerup",
-              "group": "e"
+              "qualificationtype": "thirdplace",
+              "group": "A/B/F"
             }
           },
-          "home_team": "CRO",
-          "away_team": "ESP",
-          "home_result": 3,
-          "away_result": 5,
+          "home_team": "",
+          "away_team": "",
+          "home_result": null,
+          "away_result": null,
           "home_penalty": null,
           "away_penalty": null,
-          "winner": "ESP",
-          "date": "2022-01-28T18:00:00+02:00",
-          "stadium": "PAR",
+          "winner": "",
+          "date": "2022-01-25T20:00:00+01:00",
+          "stadium": "AHM",
           "tvchannels": [],
           "finished": false,
           "matchday": "4"
@@ -1096,19 +1096,19 @@
               "group": "e"
             },
             "away_team": {
-              "qualificationtype": "thirdplace",
-              "group": "A/B/C/D"
+              "qualificationtype": "runnerup",
+              "group": "d"
             }
           },
-          "home_team": "SWE",
-          "away_team": "UKR",
-          "home_result": 1,
-          "away_result": 2,
+          "home_team": "",
+          "away_team": "",
+          "home_result": null,
+          "away_result": null,
           "home_penalty": null,
           "away_penalty": null,
-          "winner": "UKR",
-          "date": "2022-01-29T21:00:00+02:00",
-          "stadium": "HAM",
+          "winner": "",
+          "date": "2022-01-26T17:00:00+01:00",
+          "stadium": "JAP",
           "tvchannels": [],
           "finished": false,
           "matchday": "4"
@@ -1121,22 +1121,22 @@
           "qualification": {
             "home_team": {
               "qualificationtype": "winner",
-              "group": "d"
+              "group": "f"
             },
             "away_team": {
               "qualificationtype": "runnerup",
-              "group": "f"
+              "group": "e"
             }
           },
-          "home_team": "ENG",
-          "away_team": "GER",
-          "home_result": 2,
-          "away_result": 0,
+          "home_team": "",
+          "away_team": "",
+          "home_result": null,
+          "away_result": null,
           "home_penalty": null,
           "away_penalty": null,
-          "winner": "ENG",
-          "date": "2022-01-29T18:00:00+02:00",
-          "stadium": "WEM",
+          "winner": "",
+          "date": "2022-01-26T20:00:00+01:00",
+          "stadium": "LIM",
           "tvchannels": [],
           "finished": false,
           "matchday": "4"
@@ -1155,22 +1155,22 @@
           "qualification": {
             "home_team": {
               "qualificationtype": "winner",
-              "match": 41
+              "match": 40
             },
             "away_team": {
               "qualificationtype": "winner",
-              "match": 42
+              "match": 39
             }
           },
-          "home_team": "SUI",
-          "away_team": "ESP",
-          "home_result": 1,
-          "away_result": 1,
-          "home_penalty": 1,
-          "away_penalty": 3,
-          "winner": "ESP",
-          "date": "2022-01-02T18:00:00+02:00",
-          "stadium": "KRE",
+          "home_team": "",
+          "away_team": "",
+          "home_result": null,
+          "away_result": null,
+          "home_penalty": null,
+          "away_penalty": null,
+          "winner": "",
+          "date": "2022-01-29T17:00:00+01:00",
+          "stadium": "JAP",
           "tvchannels": [],
           "finished": false,
           "matchday": "5"
@@ -1183,22 +1183,22 @@
           "qualification": {
             "home_team": {
               "qualificationtype": "winner",
-              "match": 39
+              "match": 37
             },
             "away_team": {
               "qualificationtype": "winner",
-              "match": 37
+              "match": 38
             }
           },
-          "home_team": "BEL",
-          "away_team": "ITA",
-          "home_result": 1,
-          "away_result": 2,
+          "home_team": "",
+          "away_team": "",
+          "home_result": null,
+          "away_result": null,
           "home_penalty": null,
           "away_penalty": null,
-          "winner": "ITA",
-          "date": "2022-01-02T21:00:00+02:00",
-          "stadium": "ALL",
+          "winner": "",
+          "date": "2022-01-29T20:00:00+01:00",
+          "stadium": "RAD",
           "tvchannels": [],
           "finished": false,
           "matchday": "5"
@@ -1211,22 +1211,22 @@
           "qualification": {
             "home_team": {
               "qualificationtype": "winner",
-              "match": 40
+              "match": 43
             },
             "away_team": {
               "qualificationtype": "winner",
-              "match": 38
+              "match": 42
             }
           },
-          "home_team": "CZE",
-          "away_team": "DEN",
-          "home_result": 1,
-          "away_result": 2,
+          "home_team": "",
+          "away_team": "",
+          "home_result": null,
+          "away_result": null,
           "home_penalty": null,
           "away_penalty": null,
-          "winner": "DEN",
-          "date": "2022-01-03T18:00:00+02:00",
-          "stadium": "OLY",
+          "winner": "",
+          "date": "2022-01-30T17:00:00+01:00",
+          "stadium": "OLE",
           "tvchannels": [],
           "finished": false,
           "matchday": "5"
@@ -1239,22 +1239,22 @@
           "qualification": {
             "home_team": {
               "qualificationtype": "winner",
-              "match": 43
+              "match": 41
             },
             "away_team": {
               "qualificationtype": "winner",
               "match": 44
             }
           },
-          "home_team": "UKR",
-          "away_team": "ENG",
-          "home_result": 0,
-          "away_result": 4,
+          "home_team": "",
+          "away_team": "",
+          "home_result": null,
+          "away_result": null,
           "home_penalty": null,
           "away_penalty": null,
-          "winner": null,
-          "date": "2022-01-03T21:00:00+02:00",
-          "stadium": "STA",
+          "winner": "",
+          "date": "2022-01-30T20:00:00+01:00",
+          "stadium": "JAP",
           "tvchannels": [],
           "finished": false,
           "matchday": "5"
@@ -1277,18 +1277,18 @@
             },
             "away_team": {
               "qualificationtype": "winner",
-              "match": 45
+              "match": 48
             }
           },
-          "home_team": "ESP",
-          "away_team": "ITA",
-          "home_result": 1,
-          "away_result": 1,
-          "home_penalty": 2,
-          "away_penalty": 4,
-          "winner": "ITA",
-          "date": "2022-01-01T21:00:00+02:00",
-          "stadium": "WEM",
+          "home_team": "",
+          "away_team": "",
+          "home_result": null,
+          "away_result": null,
+          "home_penalty": null,
+          "away_penalty": null,
+          "winner": "",
+          "date": "2022-02-02T20:00:00+01:00",
+          "stadium": "JAP",
           "tvchannels": [],
           "finished": false,
           "matchday": "6"
@@ -1301,25 +1301,59 @@
           "qualification": {
             "home_team": {
               "qualificationtype": "winner",
-              "match": 48
+              "match": 45
             },
             "away_team": {
               "qualificationtype": "winner",
               "match": 47
             }
           },
-          "home_team": "DEN",
-          "away_team": "ENG",
-          "home_result": 1,
-          "away_result": 2,
+          "home_team": "",
+          "away_team": "",
+          "home_result": null,
+          "away_result": null,
           "home_penalty": null,
           "away_penalty": null,
-          "winner": null,
-          "date": "2022-01-01T21:00:00+02:00",
-          "stadium": "WEM",
+          "winner": "",
+          "date": "2022-02-03T20:00:00+01:00",
+          "stadium": "OLE",
           "tvchannels": [],
           "finished": false,
           "matchday": "6"
+        }
+      ]
+    },
+    "3place": {
+      "id": "3place",
+      "name": "3rd Place",
+      "matches": [
+        {
+          "id": 51,
+          "name": "51",
+          "matchtype": "knockout",
+          "teams_found": true,
+          "qualification": {
+            "home_team": {
+              "qualificationtype": "loser",
+              "match": 49
+            },
+            "away_team": {
+              "qualificationtype": "loser",
+              "match": 50
+            }
+          },
+          "home_team": "",
+          "away_team": "",
+          "home_result": null,
+          "away_result": null,
+          "home_penalty": null,
+          "away_penalty": null,
+          "winner": "",
+          "date": "2022-02-06T17:00:00+01:00",
+          "stadium": "AHM",
+          "tvchannels": [],
+          "finished": false,
+          "matchday": "7"
         }
       ]
     },
@@ -1328,8 +1362,8 @@
       "name": "Final",
       "matches": [
         {
-          "id": 51,
-          "name": "51",
+          "id": 52,
+          "name": "52",
           "matchtype": "knockout",
           "teams_found": true,
           "qualification": {
@@ -1342,18 +1376,18 @@
               "match": 50
             }
           },
-          "home_team": "ITA",
-          "away_team": "ENG",
-          "home_result": 1,
-          "away_result": 1,
-          "home_penalty": 3,
-          "away_penalty": 2,
-          "winner": "ITA",
-          "date": "2022-01-11T21:00:00+02:00",
-          "stadium": "WEM",
+          "home_team": "",
+          "away_team": "",
+          "home_result": null,
+          "away_result": null,
+          "home_penalty": null,
+          "away_penalty": null,
+          "winner": "",
+          "date": "2022-02-06T20:00:00+01:00",
+          "stadium": "OLE",
           "tvchannels": [],
           "finished": false,
-          "matchday": "7"
+          "matchday": "8"
         }
       ]
     }
