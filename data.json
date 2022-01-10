@@ -455,12 +455,12 @@
           "matchtype": "group",
           "home_team": "SEN",
           "away_team": "ZIM",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 1,
+          "away_result": 0,
           "date": "2022-01-10T00:00:00+01:00",
           "stadium": "BAF",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "1"
         },
         {
@@ -469,12 +469,12 @@
           "matchtype": "group",
           "home_team": "GUI",
           "away_team": "MAL",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 1,
+          "away_result": 0,
           "date": "2022-01-10T18:00:00+01:00",
           "stadium": "BAF",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "1"
         },
         {
@@ -549,12 +549,12 @@
           "matchtype": "group",
           "home_team": "MOR",
           "away_team": "GHA",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 1,
+          "away_result": 0,
           "date": "2022-01-10T18:00:00+01:00",
           "stadium": "AHM",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "1"
         },
         {
