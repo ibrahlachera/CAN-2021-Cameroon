@@ -662,7 +662,7 @@
           "date": "2022-01-11T21:00:00+01:00",
           "stadium": "RAD",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "1"
         },
         {
@@ -742,7 +742,7 @@
           "date": "2022-01-11T15:00:00+01:00",
           "stadium": "JAP",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "1"
         },
         {
@@ -836,7 +836,7 @@
           "date": "2022-01-12T15:00:00+01:00",
           "stadium": "LIM",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "1"
         },
         {
@@ -845,12 +845,12 @@
           "matchtype": "group",
           "home_team": "MAU",
           "away_team": "GAM",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 0,
+          "away_result": 1,
           "date": "2022-01-12T18:00:00+01:00",
           "stadium": "LIM",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "1"
         },
         {
