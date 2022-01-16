@@ -394,7 +394,7 @@
           "date": "2022-01-13T18:00:00+01:00",
           "stadium": "OLE",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "2"
         },
         {
@@ -408,7 +408,7 @@
           "date": "2022-01-13T21:00:00+01:00",
           "stadium": "OLE",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "2"
         },
         {
@@ -756,7 +756,7 @@
           "date": "2022-01-12T21:00:00+01:00",
           "stadium": "JAP",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "1"
         },
         {
@@ -765,12 +765,12 @@
           "matchtype": "group",
           "home_team": "IVR",
           "away_team": "SRL",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 2,
+          "away_result": 2,
           "date": "2022-01-16T18:00:00+01:00",
           "stadium": "JAP",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "2"
         },
         {
@@ -779,12 +779,12 @@
           "matchtype": "group",
           "home_team": "ALG",
           "away_team": "GEQ",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 0,
+          "away_result": 1,
           "date": "2022-01-16T21:00:00+01:00",
           "stadium": "JAP",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "2"
         },
         {
@@ -859,12 +859,12 @@
           "matchtype": "group",
           "home_team": "GAM",
           "away_team": "MLI",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 1,
+          "away_result": 1,
           "date": "2022-01-16T15:00:00+01:00",
           "stadium": "LIM",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "2"
         },
         {
@@ -873,12 +873,12 @@
           "matchtype": "group",
           "home_team": "TUN",
           "away_team": "MAU",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 4,
+          "away_result": 0,
           "date": "2022-01-16T18:00:00+01:00",
           "stadium": "LIM",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "2"
         },
         {
