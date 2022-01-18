@@ -436,7 +436,7 @@
           "date": "2022-01-17T18:00:00+01:00",
           "stadium": "OLE",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "3"
         }
       ]
@@ -511,12 +511,12 @@
           "matchtype": "group",
           "home_team": "MAL",
           "away_team": "SEN",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 0,
+          "away_result": 0,
           "date": "2022-01-18T18:00:00+01:00",
           "stadium": "BAF",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "3"
         },
         {
@@ -525,12 +525,12 @@
           "matchtype": "group",
           "home_team": "ZIM",
           "away_team": "GUI",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 2,
+          "away_result": 1,
           "date": "2022-01-18T18:00:00+01:00",
           "stadium": "AHM",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "3"
         }
       ]
@@ -605,12 +605,12 @@
           "matchtype": "group",
           "home_team": "GAB",
           "away_team": "MOR",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 2,
+          "away_result": 2,
           "date": "2022-01-18T21:00:00+01:00",
           "stadium": "AHM",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "3"
         },
         {
@@ -619,12 +619,12 @@
           "matchtype": "group",
           "home_team": "GHA",
           "away_team": "COM",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 2,
+          "away_result": 3,
           "date": "2022-01-18T21:00:00+01:00",
           "stadium": "RAD",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "3"
         }
       ]
