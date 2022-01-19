@@ -444,10 +444,10 @@
     {
       "id": "b",
       "name": "Group B",
-      "winner": null,
-      "runnerup": null,
-      "thirdplace": null,
-      "fourthplace": null,
+      "winner": "SEN",
+      "runnerup": "GUI",
+      "thirdplace": "MAL",
+      "fourthplace": "ZIM",
       "matches": [
         {
           "id": 3,
@@ -538,10 +538,10 @@
     {
       "id": "c",
       "name": "Group C",
-      "winner": null,
-      "runnerup": null,
-      "thirdplace": null,
-      "fourthplace": null,
+      "winner": "MOR",
+      "runnerup": "GAB",
+      "thirdplace": "COM",
+      "fourthplace": "GHA",
       "matches": [
         {
           "id": 6,
@@ -933,7 +933,7 @@
             }
           },
           "home_team": "BFA",
-          "away_team": "",
+          "away_team": "GAB",
           "home_result": null,
           "away_result": null,
           "home_penalty": null,
@@ -988,7 +988,7 @@
               "group": "f"
             }
           },
-          "home_team": "",
+          "home_team": "GUI",
           "away_team": "",
           "home_result": null,
           "away_result": null,
@@ -1044,7 +1044,7 @@
               "group": "A/C/D"
             }
           },
-          "home_team": "",
+          "home_team": "SEN",
           "away_team": "",
           "home_result": null,
           "away_result": null,
@@ -1072,7 +1072,7 @@
               "group": "A/B/F"
             }
           },
-          "home_team": "",
+          "home_team": "MOR",
           "away_team": "",
           "home_result": null,
           "away_result": null,
