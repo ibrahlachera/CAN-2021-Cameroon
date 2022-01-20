@@ -632,10 +632,10 @@
     {
       "id": "d",
       "name": "Group D",
-      "winner": null,
-      "runnerup": null,
-      "thirdplace": null,
-      "fourthplace": null,
+      "winner": "NGR",
+      "runnerup": "EGY",
+      "thirdplace": "SDN",
+      "fourthplace": "GNB",
       "matches": [
         {
           "id": 7,
