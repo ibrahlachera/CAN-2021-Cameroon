@@ -1017,7 +1017,7 @@
             }
           },
           "home_team": "CAM",
-          "away_team": "",
+          "away_team": "COM",
           "home_result": null,
           "away_result": null,
           "home_penalty": null,
@@ -1100,7 +1100,7 @@
               "group": "d"
             }
           },
-          "home_team": "",
+          "home_team": "IVR",
           "away_team": "EGY",
           "home_result": null,
           "away_result": null,
