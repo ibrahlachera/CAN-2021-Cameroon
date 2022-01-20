@@ -793,12 +793,12 @@
           "matchtype": "group",
           "home_team": "SRL",
           "away_team": "GEQ",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 0,
+          "away_result": 1,
           "date": "2022-01-20T18:00:00+01:00",
           "stadium": "LIM",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "3"
         },
         {
@@ -807,12 +807,12 @@
           "matchtype": "group",
           "home_team": "IVR",
           "away_team": "ALG",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 3,
+          "away_result": 1,
           "date": "2022-01-20T18:00:00+01:00",
           "stadium": "JAP",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "3"
         }
       ]
