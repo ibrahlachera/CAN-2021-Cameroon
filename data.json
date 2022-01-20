@@ -960,7 +960,7 @@
               "group": "B/E/F"
             }
           },
-          "home_team": "",
+          "home_team": "NGR",
           "away_team": "",
           "home_result": null,
           "away_result": null,
@@ -1045,7 +1045,7 @@
             }
           },
           "home_team": "SEN",
-          "away_team": "",
+          "away_team": "CAP",
           "home_result": null,
           "away_result": null,
           "home_penalty": null,
@@ -1073,7 +1073,7 @@
             }
           },
           "home_team": "MOR",
-          "away_team": "",
+          "away_team": "MAL",
           "home_result": null,
           "away_result": null,
           "home_penalty": null,
@@ -1101,7 +1101,7 @@
             }
           },
           "home_team": "",
-          "away_team": "",
+          "away_team": "EGY",
           "home_result": null,
           "away_result": null,
           "home_penalty": null,
