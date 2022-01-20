@@ -699,12 +699,12 @@
           "matchtype": "group",
           "home_team": "GNB",
           "away_team": "NGR",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 0,
+          "away_result": 2,
           "date": "2022-01-19T21:00:00+01:00",
           "stadium": "RAD",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "3"
         },
         {
@@ -713,12 +713,12 @@
           "matchtype": "group",
           "home_team": "EGY",
           "away_team": "SDN",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 1,
+          "away_result": 0,
           "date": "2022-01-19T21:00:00+01:00",
           "stadium": "AHM",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "3"
         }
       ]
