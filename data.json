@@ -990,15 +990,15 @@
           },
           "home_team": "GUI",
           "away_team": "GAM",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 0,
+          "away_result": 1,
           "home_penalty": null,
           "away_penalty": null,
-          "winner": "",
+          "winner": "GAM",
           "date": "2022-01-24T18:00:00+01:00",
           "stadium": "BAF",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "4"
         },
         {
@@ -1018,15 +1018,15 @@
           },
           "home_team": "CAM",
           "away_team": "COM",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 2,
+          "away_result": 1,
           "home_penalty": null,
           "away_penalty": null,
           "winner": "",
           "date": "2022-01-24T21:00:00+01:00",
           "stadium": "OLE",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "4"
         },
         {
@@ -1162,8 +1162,8 @@
               "match": 39
             }
           },
-          "home_team": "",
-          "away_team": "",
+          "home_team": "CAM",
+          "away_team": "GAM",
           "home_result": null,
           "away_result": null,
           "home_penalty": null,
@@ -1190,8 +1190,8 @@
               "match": 38
             }
           },
-          "home_team": "",
-          "away_team": "",
+          "home_team": "BFA",
+          "away_team": "TUN",
           "home_result": null,
           "away_result": null,
           "home_penalty": null,
