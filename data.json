@@ -1046,15 +1046,15 @@
           },
           "home_team": "SEN",
           "away_team": "CAP",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 2,
+          "away_result": 0,
           "home_penalty": null,
           "away_penalty": null,
           "winner": "",
           "date": "2022-01-25T18:00:00+01:00",
           "stadium": "BAF",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "4"
         },
         {
@@ -1074,15 +1074,15 @@
           },
           "home_team": "MOR",
           "away_team": "MAL",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 2,
+          "away_result": 1,
           "home_penalty": null,
           "away_penalty": null,
           "winner": "",
           "date": "2022-01-25T21:00:00+01:00",
           "stadium": "AHM",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "4"
         },
         {
@@ -1219,7 +1219,7 @@
             }
           },
           "home_team": "",
-          "away_team": "",
+          "away_team": "MOR",
           "home_result": null,
           "away_result": null,
           "home_penalty": null,
@@ -1246,7 +1246,7 @@
               "match": 44
             }
           },
-          "home_team": "",
+          "home_team": "SEN",
           "away_team": "",
           "home_result": null,
           "away_result": null,
