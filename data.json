@@ -1170,7 +1170,7 @@
           "away_penalty": null,
           "winner": "",
           "date": "2022-01-29T18:00:00+01:00",
-          "stadium": "JAP",
+          "stadium": "AHM",
           "tvchannels": [],
           "finished": false,
           "matchday": "5"
@@ -1226,7 +1226,7 @@
           "away_penalty": null,
           "winner": "",
           "date": "2022-01-30T17:00:00+01:00",
-          "stadium": "OLE",
+          "stadium": "AHM",
           "tvchannels": [],
           "finished": false,
           "matchday": "5"
@@ -1254,7 +1254,7 @@
           "away_penalty": null,
           "winner": "",
           "date": "2022-01-30T21:00:00+01:00",
-          "stadium": "JAP",
+          "stadium": "AHM",
           "tvchannels": [],
           "finished": false,
           "matchday": "5"
