@@ -1220,15 +1220,15 @@
           },
           "home_team": "EGY",
           "away_team": "MOR",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 2,
+          "away_result": 1,
           "home_penalty": null,
           "away_penalty": null,
-          "winner": "",
+          "winner": "EGY",
           "date": "2022-01-30T17:00:00+01:00",
           "stadium": "AHM",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "5"
         },
         {
@@ -1248,15 +1248,15 @@
           },
           "home_team": "SEN",
           "away_team": "GEQ",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 3,
+          "away_result": 1,
           "home_penalty": null,
           "away_penalty": null,
-          "winner": "",
+          "winner": "SEN",
           "date": "2022-01-30T21:00:00+01:00",
           "stadium": "AHM",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "5"
         }
       ]
@@ -1280,8 +1280,8 @@
               "match": 48
             }
           },
-          "home_team": "",
-          "away_team": "",
+          "home_team": "BFA",
+          "away_team": "SEN",
           "home_result": null,
           "away_result": null,
           "home_penalty": null,
@@ -1308,8 +1308,8 @@
               "match": 47
             }
           },
-          "home_team": "",
-          "away_team": "",
+          "home_team": "CAM",
+          "away_team": "EGY",
           "home_result": null,
           "away_result": null,
           "home_penalty": null,
