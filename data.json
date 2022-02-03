@@ -1282,15 +1282,15 @@
           },
           "home_team": "BFA",
           "away_team": "SEN",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 1,
+          "away_result": 3,
           "home_penalty": null,
           "away_penalty": null,
           "winner": "",
           "date": "2022-02-02T21:00:00+01:00",
           "stadium": "JAP",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "6"
         },
         {
@@ -1342,7 +1342,7 @@
               "match": 50
             }
           },
-          "home_team": "",
+          "home_team": "BFA",
           "away_team": "",
           "home_result": null,
           "away_result": null,
@@ -1377,7 +1377,7 @@
             }
           },
           "home_team": "",
-          "away_team": "",
+          "away_team": "SEN",
           "home_result": null,
           "away_result": null,
           "home_penalty": null,
