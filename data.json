@@ -1310,15 +1310,15 @@
           },
           "home_team": "CAM",
           "away_team": "EGY",
-          "home_result": null,
-          "away_result": null,
-          "home_penalty": null,
-          "away_penalty": null,
+          "home_result": 0,
+          "away_result": 0,
+          "home_penalty": 1,
+          "away_penalty": 3,
           "winner": "",
           "date": "2022-02-03T21:00:00+01:00",
           "stadium": "OLE",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "6"
         }
       ]
@@ -1343,7 +1343,7 @@
             }
           },
           "home_team": "BFA",
-          "away_team": "",
+          "away_team": "CAM",
           "home_result": null,
           "away_result": null,
           "home_penalty": null,
@@ -1376,7 +1376,7 @@
               "match": 50
             }
           },
-          "home_team": "",
+          "home_team": "EGY",
           "away_team": "SEN",
           "home_result": null,
           "away_result": null,
